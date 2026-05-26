@@ -1,0 +1,6 @@
+{
+  "name": "PhishGuard AI",
+  "description": "Full-stack AI-powered cybersecurity platform for detecting phishing attacks, analyzing malicious URLs, validating SMS/email screenshots, and consulting a safety AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
